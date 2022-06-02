@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "idp"
+version = "0.1.0"
+description = ""
+authors = ["Chris Pecunies <clp@clp.is>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+PySide6 = "^6.3.0"
+networkx = "^2.8.2"
+tree-sitter = "^0.20.0"
+numpy = "^1.22.4"
+opencv-python = "^4.5.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

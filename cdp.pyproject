@@ -1,0 +1,10 @@
+{
+    "files": ["main.py",
+              "idp/app.py",
+              "idp/ui/window.py",
+              "qml/main.qml",
+              "qml/Home.qml",
+              "qml/comp/Editor.qml",
+              "qml/comp/EditorView.qml",
+             ]
+}
